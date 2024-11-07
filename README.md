@@ -7,7 +7,11 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-Desenvolvido por gr4v4t1nh4 
+Desenvolvido por HANDERSON GLEBER (gr4v4t1nh4) 
+
+
+<p align="center">Gostou do projeto? Por favor considere <a href="http://link.mercadopago.com.br/handersongleber">fazer uma doação</a> para ajudar a melhorá-lo!</p>
+
 </div>
 
 
@@ -54,13 +58,20 @@ Consulte a documentação do GitHub em [como criar uma solicitação pull](https
 
 HANDERSON GLEBER DE LIMA CAVALCANTI (GRAVATINHA)
 
-
-## 🤝 Colaboradores
-
 E- mail:  handerson.gleber@gmail.com
 
 https://www.instagram.com/handersongleber/
 
 ## 📝 Licença
 
-Esse projeto está sob licença livre. 
+Esse projeto está sob licença livre.
+
+## 🤝 Apoie o autor
+
+Se você estiver satisfeito com esse projeto ou  quiser me encorajar a continuar criando coisas legais, considere me apoiar:
+
+- Dando os devidos créditos caso utilize meu código
+- Dando uma estrela (Starring) e compartilhando o projeto 🚀
+- Me Pagando um café [![Static Badge](https://img.shields.io/badge/Mercado_Livre-blue)]("http://link.mercadopago.com.br/handersongleber") ou  [![paypal](https://img.shields.io/badge/Pay_Pal-blue)]("https://www.paypal.com/donate/?business=GZCPGEVTCZ8VW&no_recurring=0&currency_code=USD")
+
+
